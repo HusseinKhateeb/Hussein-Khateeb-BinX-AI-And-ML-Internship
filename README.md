@@ -7,7 +7,7 @@
 
 ## 📖 About Me
 
-I'm a Computer Software Engineering student doing the **BinX Tech AI & Machine Learning Internship** - a 400-hour, hands-on program covering Python for data science, NumPy, Pandas, Matplotlib, and the full ML workflow, all built inside the Jupyter Notebook environment.
+I'm a Computer Software Engineering student doing the **BinX Tech AI & Machine Learning Internship** - a 400-hour, hands-on program covering Python fundamentals, math foundations, classical ML, deep learning, and the full model pipeline from raw data to a deployed, live AI product.
 
 ---
 
@@ -15,16 +15,16 @@ I'm a Computer Software Engineering student doing the **BinX Tech AI & Machine L
 
 | Phase | Weeks | Focus |
 |:---:|:---:|---|
-| **Phase 1** - Python & Data Science Foundations | 1–2 | Python environment, NumPy, Pandas, Matplotlib, Jupyter workflow |
-| **Phase 2** - Core ML Training | TBD | *Details added once Phase 2 curriculum is released* |
-| **Phase 3** - Applied Project Work | TBD | *Details added once Phase 3 curriculum is released* |
-| **Phase 4** - Final Evaluation | TBD | *Details added once Phase 4 curriculum is released* |
+| **Phase 1** - Foundations | 1–2 | Python, math refresher, data manipulation & EDA |
+| **Phase 2** - Core ML Training | 2–5 | Classical ML algorithms, feature engineering, model evaluation |
+| **Phase 3** - Deep Learning & Applied Project | 6–9 | Neural networks, DL frameworks, real project sprints, deployment |
+| **Phase 4** - Final Evaluation | 10 | Final presentation, portfolio review, certification |
 
 ---
 
 ## 🛠️ Tech Stack
 
-Python 3.10+ · NumPy · Pandas · Matplotlib · Jupyter Notebook · venv / conda · Git & GitHub · VS Code · Google Colab
+Python 3.10+ · NumPy · Pandas · Matplotlib · Seaborn · SQL · Scikit-learn · TensorFlow / Keras · PyTorch · Hugging Face Transformers · OpenCV · FastAPI · Streamlit · MLflow · Jupyter Notebook · Google Colab · Git & GitHub
 
 ---
 
@@ -61,15 +61,16 @@ No weekly summary files - just open the day you want directly from the tables be
 
 ---
 
-## 🏆 Capstone Project
+## 🏆 Capstone Project (Phase 3, Weeks 5–9)
 
-My end-to-end AI/ML project, built once the applied project phase begins.
+One complete AI/ML project built end-to-end across four Agile sprints — from raw data to a deployed, live product. Assigned by my mentor from options like: Customer Churn Prediction, House Price Prediction, Sentiment Analysis, Image Classification, Recommendation Systems, or Fraud Detection.
 
 | Field | Detail |
 |---|---|
-| **Project Type** | *TBD* |
+| **Project Type** | *TBD — assigned around Week 5* |
 | **Repository** | *link once created* |
-| **Notebook / Demo** | *link once available* |
+| **Live Demo (Streamlit / FastAPI)** | *link once deployed* |
+| **MLflow Experiment Log** | *link once available* |
 
 ---
 
