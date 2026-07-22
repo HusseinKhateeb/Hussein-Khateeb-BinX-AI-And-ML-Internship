@@ -45,22 +45,6 @@ No weekly summary files - just open the day you want directly from the tables be
 
 ---
 
-## 📅 Week 1 - Daily Logs
-
-**Python & Data Science Foundations**
-
-| Day | Topic | Log |
-|:---:|---|:---:|
-| 01 | Environment Setup & the Jupyter Workflow | [View](./week-01/day-01/README.md) |
-| 02 | Python for Data Science: Types, Control Flow, Functions, OOP Basics | [View](./week-01/day-02/README.md) |
-| 03 | NumPy: Numerical Computing | [View](./week-01/day-03/README.md) |
-| 04 | Pandas: Tabular Data | [View](./week-01/day-04/README.md) |
-| 05 | Matplotlib & Week 1 Mini-Notebook | [View](./week-01/day-05/README.md) |
-
-*Daily log tables for Weeks 2–10 will be added below as each day's folder is created.*
-
----
-
 ## 🏆 Capstone Project (Phase 3, Weeks 5–9)
 
 One complete AI/ML project built end-to-end across four Agile sprints — from raw data to a deployed, live product. Assigned by my mentor from options like: Customer Churn Prediction, House Price Prediction, Sentiment Analysis, Image Classification, Recommendation Systems, or Fraud Detection.
